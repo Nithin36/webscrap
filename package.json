@@ -1,0 +1,26 @@
+{
+  "name": "webscrap",
+  "version": "1.0.0",
+  "description": "Webscrap Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "crud",
+    "mysql"
+  ],
+  "author": "Nithin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.0",
+    "method-override": "^2.3.9",
+    "request": "^2.88.0"
+  }
+}
